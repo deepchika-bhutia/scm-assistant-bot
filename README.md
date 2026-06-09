@@ -1,6 +1,9 @@
 ## Public chatbot url 
 > https://cloud.flowiseai.com/chatbot/2c9f31ba-43dc-4175-907a-9f519584fb95
 
+## Github link 
+> https://github.com/deepchika-bhutia/scm-assistant-bot
+
 ## LLM 
 > gemini-2.5-flash and gemini-2.5-flash-lite
 
